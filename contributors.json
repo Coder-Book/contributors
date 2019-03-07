@@ -6,4 +6,12 @@
   "active": true,
   "joined": "2018-12-16",
   "team_ids": [0, 1, 2, 3, 4]
+},{
+  "name": "CoderBook",
+  "github": "coder-book",
+  "image": "https://avatars1.githubusercontent.com/u/46031899",
+  "country_code": "GBR",
+  "active": true,
+  "joined": "2019-2-9",
+  "team_ids": [2]
 }]
